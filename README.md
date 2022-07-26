@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=an%20active%20developer%20nam&fontSize=70)<br>
+
 <a href="https://github.com/skarns23" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skarns23@gmail.com)](mailto:skarns23@gmail.com)
 <a href="https://www.instagram.com/__havanam/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  
@@ -6,6 +8,7 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=skarns23)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skarns23)](https://solved.ac/skarns23)<br/>
 
 <!--
 **skarns23/skarns23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
