@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=an%20active%20developer%20nam&fontSize=70)<br>
+<div align = center>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=An%20Active%20Developer%20Nams&fontSize=65)<br>
+
 
 <a href="https://github.com/skarns23" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skarns23@gmail.com)](mailto:skarns23@gmail.com)
@@ -24,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
