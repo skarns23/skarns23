@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome%20%20Seung%20Hyean%20Git&fontSize=80)<br>
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome%20Nam's%20Git%20Hub&fontSize=80)<br>
 
 
 <a href="https://github.com/skarns23" target="_blank"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
